@@ -64,3 +64,5 @@ and paste the codes:
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
 }
 ```
+
+## PS: Paste the code under the initial code just in case any line is missing, if any line is duplicated, just delete the old one.
