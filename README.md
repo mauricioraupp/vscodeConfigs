@@ -6,7 +6,9 @@ https://www.jetbrains.com/pt-br/lp/mono/#how-to-install
 ```
 After the file is extracted, select all the fonts and install
 
-# Go to (JSON) Open user settings
+# Copy and paste the code
+
+## Go to (JSON) Open user settings
 Execute command Ctrl + Shift + P and search for:
 ```
 Preferences: Open User Settings (JSON)
@@ -66,3 +68,23 @@ and paste the codes:
 ```
 
 ## PS: Paste the code under the initial code just in case any line is missing, if any line is duplicated, just delete the old one.
+
+# Extensions
+
+Execute command Ctrl + Q and click on extensions
+### Search for:
+```
+Min Theme
+```
+and select Min Theme Dark.
+
+### Search for:
+```
+Symbols
+```
+and select Symbols Icons
+
+### Search for:
+```
+Live Preview
+```
