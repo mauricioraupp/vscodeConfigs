@@ -67,7 +67,13 @@ and paste the codes:
 }
 ```
 
-## PS: Paste the code under the initial code just in case any line is missing, if any line is duplicated, just delete the old one.
+### PS: Paste the code under the initial code just in case any line is missing, if any line is duplicated, just delete the old one.
+
+## Execute command Ctrl + Shift + P and search for:
+```
+Preferences: Open Settings (UI)
+```
+Click on 'Text editor', 'Cursor', then change 'Cursor Blinking' for 'phase', and turn 'Cursor Smooth Caret Animation' on 
 
 # Extensions
 
